@@ -1,0 +1,30 @@
+html{
+  background-image: url('https://media1.giphy.com/media/tbh3GLiYSgYYE/giphy.gif?cid=ecf05e475pumxziexdluk7cqk1ijnjbap77rrbl6jg59p6ad&rid=giphy.gif&ct=g');
+  background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+}
+
+h3, p{
+  color: white;
+  text-align: center;
+}
+
+img{
+  width: 400px;
+}
+
+p{
+  color: white;
+}
