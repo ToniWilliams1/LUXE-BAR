@@ -9,20 +9,20 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
+   
 
     <!-- 
       This is an HTML comment
       You can write text in a comment and the content won't be visible in the page
     -->
 
-    <title>Hello World!</title>
+    <title>Toni's Tipsy Bar</title>
 
     <!-- Meta tags for SEO and social sharing -->
     <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
     <meta
       name="description"
-      content="A simple website, built with Glitch. Remix it to get your own."
+      content="Welcome to Toni's Tipsy Bar,  what will you be having today?"
     />
     <meta name="robots" content="index,follow" />
     <meta property="og:title" content="Hello World!" />
@@ -40,30 +40,52 @@
 
     <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand:wght@300&family=Roboto+Mono:ital@1&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/71d3788d75.js"
+      crossorigin="anonymous"
+    ></script>
 
     <!-- Import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>
   <body>
-    <div class ="wrapper">
-  
-   <h1>
-      Toni's Tipsy Bar
-    </h1>
-      </div>
-    <input type="text" name ="" value ="">
-    <button>
-       Enter
-    </button>
-    <img src = "#" alt="">
-    <p>
-    Toni's Tip:
-    </p>
-    <h2>
-      
-    </h2>
-    <h3>
-     
-    </h3>
+    <h1>Welcome to Toni's Tipsy Bar</h1>
+
+    <input type="text" name="?" value="" placeholder="Choose Your Drink" />
+    <button class="enter">Enter</button>
+    <button class="random-button">Random Drink Me!</button>
+    <div class="card">
+      <h2>Name: <span class="name"> </span></h2>
+
+      <h2>Type: <span class="type"> </span></h2>
+
+      <img src="" id="image" class="image" style="width: 50%" />
+      <h2>
+        <strong> <em> Toni's Tip: </em> </strong>
+      </h2>
+      <p class="p" id="p"></p>
+      <h2><strong> Ingredients: </strong></h2>
+      <p class="ingredients" id="ingredients"></p>
+      <p class="ingredient2" id="ingredient2"></p>
+      <p class="ingredient3" id="ingredient3"></p>
+      <p class="ingredient4" id="ingredient4"></p>
+      <p class="ingredient5" id="ingredient5"></p>
+
+      <h2>Measurements:</h2>
+      <p class="measurement2" id="measurement2"></p>
+      <p class="measurement3" id="measurement3"></p>
+
+      <button class="prev-button">
+        <i class="fa-solid fa-caret-left"></i>
+      </button>
+      <button class="next-button">
+        <i class="fa-solid fa-caret-right"></i>
+      </button>
+    </div>
   </body>
 </html>
+
