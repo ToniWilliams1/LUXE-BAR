@@ -12,9 +12,7 @@ let ingred5 = document.querySelector(".ingredient5");
 let measure = document.querySelector(".measurement2");
 let counter = 0;
 
-
 function getDrink() {
-  /* get users drink */
   let drink = document.querySelector("input").value;
 
   fetch(`https://thecocktaildb.com/api/json/v1/1/search.php?s=${drink}`)
@@ -136,6 +134,5 @@ document.querySelector(".random-button").addEventListener("click", () => {
     ingred5.innerText = drinkArray[counter].strIngredient5;
     measure.innerText = drinkArray[counter].strMeasure1;
 })
-
 
 
