@@ -1,4 +1,4 @@
-# Toni's Tipsy Bar 🍹
+# L U X E Bar 🍹
 Users will enter the name of an alcoholic beverage, and will retrieve the instructions on how to make the drink, ingredients needed to make the drink, and the needed measurements. Users will also be able to scroll through a variety of drinks. Don't know what drink to choose? We have a "Random Drink Me" button that will select one at random. 
 
 ## View the live site here: 
