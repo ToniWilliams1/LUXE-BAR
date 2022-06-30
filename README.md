@@ -12,7 +12,7 @@ https://luxebar.netlify.app/
 
 ## Acknowledgements
 
- - [The Cocktail DB](https://www.thecocktaildb.com/)
+ - [The Cocktail DB API](https://www.thecocktaildb.com/)
  - [Font Awesome](https://fontawesome.com/)
 
 
