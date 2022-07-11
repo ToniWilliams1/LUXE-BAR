@@ -10,7 +10,7 @@ In this simple app, users will enter the name of an alcoholic beverage, and will
 ## View the live site here: 
 https://luxebar.netlify.app/
 
-## Acknowledgements
+## Acknowledgements:
 
  - [The Cocktail DB API](https://www.thecocktaildb.com/)
  - [Font Awesome](https://fontawesome.com/)
