@@ -1,5 +1,5 @@
 # L U X E Bar 🍹
-In this simple app, users will enter the name of an alcoholic beverage, and will retrieve the instructions on how to make the drink, ingredients needed to make the drink, and the needed measurements. Users will also be able to scroll through a variety of drinks. If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random. 
+In this simple app, users will enter the name of an alcoholic beverage, and will retrieve the instructions on how to make the drink, ingredients needed to make the drink, and the needed measurements. Users will also be able to scroll through a variety of drinks. If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random Users are also able to save their drinks to a 'favorites menu'. 
 
 
 
