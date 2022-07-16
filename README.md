@@ -16,7 +16,7 @@ https://luxebar.netlify.app/
  - [Font Awesome](https://fontawesome.com/)
 
 
-## Contributing
+## Contributing:
 
 Contributions are always welcome!
 
