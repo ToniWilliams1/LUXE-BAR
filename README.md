@@ -28,7 +28,7 @@ Please adhere to this project's `code of conduct`.
 
 - [Toni Williams](https://www.github.com/toniwilliams1)
 
-## Feedback
+## Feedback:
 
 If you have any feedback, please reach out to us at toniwilliams03@outlook.com
 
