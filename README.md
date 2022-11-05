@@ -2,13 +2,10 @@
 In this simple app, users will enter the name of an alcoholic beverage, and will retrieve the instructions on how to make the drink, ingredients needed to make the drink, and the needed measurements. Users will also be able to scroll through a variety of drinks. If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random Users are also able to save their drinks to a 'favorites menu'. 
 
 
-
+# Preview 
+View the live site [here](https://luxebar.netlify.app/)
 <img width="941" alt="luxe" src="https://user-images.githubusercontent.com/100317017/173253955-3c7f1bec-76f4-4dff-a2b4-08a1b66fdfe7.png">
 
-
-
-## View the live site here: 
-https://luxebar.netlify.app/
 
 ## Acknowledgements:
 
