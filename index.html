@@ -1,28 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-      This is the page head - it contains info the browser uses to display the page
-      You won't see what's in the head in the page
-      Scroll down to the body element for the page content
-    -->
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-   
-
-    <!-- 
-      This is an HTML comment
-      You can write text in a comment and the content won't be visible in the page
-    -->
-
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
     <title>L U X E Bar</title>
-
-    <!-- Meta tags for SEO and social sharing -->
     <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
     <meta
       name="description"
-      content="Welcome to L U X E Bar,  what will you be having today?"
+      content="A simple website, built with Glitch. Remix it to get your own."
     />
     <meta name="robots" content="index,follow" />
     <meta property="og:title" content="Hello World!" />
@@ -37,55 +23,89 @@
       content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"
     />
     <meta name="twitter:card" content="summary" />
-
-    <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand:wght@300&family=Roboto+Mono:ital@1&display=swap"
       rel="stylesheet"
     />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@2.38.1/dist/full.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
     <script
       src="https://kit.fontawesome.com/71d3788d75.js"
       crossorigin="anonymous"
     ></script>
-
-    <!-- Import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>
   <body>
-    <div class="fade-in-text">
-    <h1>Welcome to L U X E Bar</h1>
+    <div id="navbar" class="navbar bg-base-100">
+      <div class="flex-1">
+        <a class="btn btn-ghost normal-case text-xl">L U X E Bar</a>
+      </div>
+      <div class="flex-none gap-2">
+                <p>Made with ❤️ by <a href="toniwilliams.netlify.app">Toni</a></p>
+
+        <div class="form-control">
+          <input
+            type="text"
+            name="?"
+            value=""
+            placeholder="Enter A Drink"
+            class="input input-bordered input-primary w-full max-w-xs"
+          />
+          <button id="enter" class="btn btn-outline btn-primary">
+            Get Drink
+          </button>
+        </div>
+        <div class="dropdown dropdown-end">
+          <label tabindex="0" class="btn btn-ghost btn-circle avatar"> </label>
+        </div>
+      </div>
     </div>
-    <input type="text" name="?" value="" placeholder="Choose Your Drink" />
-    <button class="enter">Enter</button>
-    <div class="card">
-      <h2>Name: <span class="name"> </span></h2>
 
-      <h2>Type: <span class="type"> </span></h2>
+    <div id="card" class="card w-96 bg-base-100 shadow-xl">
 
-      <img src="" id="image" class="image" style="width: 50%" />
-      <h2>
-        <strong> <em> L U X E Tip: </em> </strong>
-      </h2>
-      <p class="p" id="p"></p>
-      <h2><strong> Ingredients: </strong></h2>
-      <p class="ingredients" id="ingredients"></p>
-      <p class="ingredient2" id="ingredient2"></p>
-      <p class="ingredient3" id="ingredient3"></p>
-      <p class="ingredient4" id="ingredient4"></p>
-      <p class="ingredient5" id="ingredient5"></p>
+        <h3> <span class="#"> </span></h3>
+      <figure class="px-10 pt-10">
+       
+        <img src="#" id="image" class="image" style="width: 50%" />
+      </figure>
+      <div class="card-body items-center text-center">
+        <h2>
+          <strong> <em> L U X E <span class="name"></span> Recipe: </em> </strong>
+        </h2>
+        <p class="p" id="p"></p>
+        <h2><strong> Ingredients: </strong></h2>
+        <p class="ingredients" id="ingredients"></p>
+        <p class="ingredient2" id="ingredient2"></p>
+        <p class="ingredient3" id="ingredient3"></p>
+        <p class="ingredient4" id="ingredient4"></p>
+        <p class="ingredient5" id="ingredient5"></p>
 
-      <h2>Measurements:</h2>
-      <p class="measurement2" id="measurement2"></p>
-      <p class="measurement3" id="measurement3"></p>
+        <h2>Measurements:</h2>
+        <p class="measurement2" id="measurement2"></p>
+        <p class="measurement3" id="measurement3"></p>
 
-      <button class="prev-button">
-        <i class="fa-solid fa-caret-left"></i>
-      </button>
-      <button class="next-button">
-        <i class="fa-solid fa-caret-right"></i>
-      </button>
+        <div class="button btn-group grid grid-cols-2">
+          <button id="prev-button" class="prev-button btn btn-outline">
+            Previous Drink
+          </button>
+          <button id="next-button" class="next-button btn btn-outline">
+            Next Drink
+          </button>
+        </div>
+        <div class="card-actions">
+          <button class="btn btn-outline btn-primary">Random Drink Me!</button>
+        </div>
+      </div>
     </div>
+
+   
   </body>
 </html>
+
 
