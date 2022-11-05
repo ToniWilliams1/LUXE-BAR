@@ -22,6 +22,8 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+## Installation
+
 Get a free API Key [here](https://www.thecocktaildb.com/api.php).
 
 Clone the repo git clone https://github.com/toniwilliams1/LUXE-BAR.git
