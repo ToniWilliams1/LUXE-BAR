@@ -5,7 +5,7 @@ In this simple app, users will enter the name of an alcoholic beverage, and will
 # Preview 
 View the live site [here](https://luxebar.netlify.app/).
 
-<img width="941" alt="luxe" src="https://user-images.githubusercontent.com/100317017/173253955-3c7f1bec-76f4-4dff-a2b4-08a1b66fdfe7.png">
+<img width="1300" alt="Screen Shot 2022-11-05 at 6 59 15 PM" src="https://user-images.githubusercontent.com/100317017/200144572-3ae0bdbd-ac54-4483-a0ce-d463ceb8958b.png">
 
 
 ## Acknowledgements:
