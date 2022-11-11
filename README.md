@@ -14,14 +14,6 @@ View the live site [here](https://luxebar.netlify.app/).
  - [Font Awesome](https://fontawesome.com/)
 
 
-## Contributing:
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 ## Feedback:
 
 Liked the work? Please give the repository a star ⭐️
