@@ -12,8 +12,8 @@ View the live site [here](https://luxebar.netlify.app/).
 
 ## Acknowledgements
 
- [The Cocktail DB API](https://www.thecocktaildb.com/)
- [Font Awesome](https://fontawesome.com/)
+ - [The Cocktail DB API](https://www.thecocktaildb.com/)
+ - [Font Awesome](https://fontawesome.com/)
 
 
 ## Feedback
