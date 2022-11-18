@@ -1,6 +1,6 @@
 # L U X E Bar 🍹
 
-Users will enter the name of an alcoholic beverage, and browse through over 300 drinks receipes.  If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random. 
+Enter any drink, and browse through over 300 recipes.  If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random. 
 
 
 
