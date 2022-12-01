@@ -4,10 +4,10 @@ Choose your drink, and browse through over 300 recipes.  If you don't know what 
 
 ## Key technologies, packages, and gems
 
-• Front end
+• Front end <br>
 Daisy-UI
 
-• Back end
+• Back end <br>
  - [The Cocktail DB API](https://www.thecocktaildb.com/)
 
 ## Core Features
