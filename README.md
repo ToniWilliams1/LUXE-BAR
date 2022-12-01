@@ -5,11 +5,13 @@ Choose your drink, and browse through over 300 recipes.  If you don't know what 
 ## Key Technologies, Packages, and Gems
 
 • Front end <br>
-Daisy-UI
-HTML, CSS, JavaScript
+Daisy-UI <br>
+HTML <br>
+CSS <br> 
+JavaScript
 
 • Back end <br>
- The Cocktail DB API
+ The Cocktail DB API <br>
  Node.js
 
 ## Core Features
