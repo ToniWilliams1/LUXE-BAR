@@ -6,19 +6,26 @@ Choose your drink, and browse through over 300 recipes.  If you don't know what 
 
 • Front end <br>
 Daisy-UI
+HTML, CSS, JavaScript
 
 • Back end <br>
- - [The Cocktail DB API](https://www.thecocktaildb.com/)
+ The Cocktail DB API
+ Node.js
 
 ## Core Features
  Users will enter the name of a drink and recieve instructions and measurements for the drink.
+ 
+ Results for similar drinks are also available to view by the user.
+ 
+ ## Things To Add
+ [The Cocktail DB API Key](https://www.thecocktaildb.com/)
 
 ## Start App
-Get an [API key](https://www.thecocktaildb.com/).
+NPM Start.
 
 Clone the repo git clone https://github.com/toniwilliams1/LUXE-BAR.git
 
-Enter your API in script.js const API_KEY = 'ENTER YOUR API';
+NPM Install
 
 ## [Demo](https://luxebar.netlify.app/).
 
