@@ -11,7 +11,14 @@ Daisy-UI
  - [The Cocktail DB API](https://www.thecocktaildb.com/)
 
 ## Core Features
-• Users will enter the name of a drink and recieve instructions and measurements for the drink.
+ Users will enter the name of a drink and recieve instructions and measurements for the drink.
+
+## Start App
+Get an [API key](https://www.thecocktaildb.com/).
+
+Clone the repo git clone https://github.com/toniwilliams1/LUXE-BAR.git
+
+Enter your API in script.js const API_KEY = 'ENTER YOUR API';
 
 ## [Demo](https://luxebar.netlify.app/).
 
