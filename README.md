@@ -5,6 +5,7 @@ Choose your drink, and browse through over 300 recipes.  If you don't know what 
 ## Key Technologies, Packages, and Gems
 
 • Front end <br>
+Tailwind <br>
 Daisy-UI <br>
 HTML <br>
 CSS <br> 
