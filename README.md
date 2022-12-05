@@ -20,8 +20,6 @@ JavaScript
  
  Results for similar drinks are also available to view by the user.
  
- ## Things To Add
- [The Cocktail DB API Key](https://www.thecocktaildb.com/)
 
 ## Start App
 NPM Start
