@@ -2,8 +2,7 @@
 
 Choose your drink, and browse through over 300 recipes.  If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random. 
 
-## Key Technologies, Packages, and Gems
-
+## Technologies
 • Front end <br>
 Tailwind <br>
 Daisy-UI <br>
