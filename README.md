@@ -4,7 +4,7 @@ Choose your drink, and browse through over 300 recipes.  If you don't know what 
 
 ## Technologies
 • Front end <br>
-Tailwind <br>
+Tailwind CSS<br>
 Daisy-UI <br>
 HTML <br>
 CSS <br> 
