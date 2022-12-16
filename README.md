@@ -2,17 +2,18 @@
 
 Choose your drink, and browse through over 300 recipes.  If you don't know what drink to choose, we have a "Random Drink Me" button that will select one at random. 
 
-## Technologies
-• Front end <br>
-Tailwind CSS<br>
+# Technologies 
+## Front end <br>
 Daisy-UI <br>
 HTML <br>
-CSS <br> 
-JavaScript
+JavaScript <br>
+Tailwind CSS<br>
 
-• Back end <br>
+
+## Back end <br>
+ Node.js <br>
  The Cocktail DB API <br>
- Node.js
+
 
 ## Core Features
  Users will enter the name of a drink and recieve instructions and measurements for the drink.
